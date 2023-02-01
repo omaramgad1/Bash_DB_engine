@@ -8,6 +8,7 @@ Build a simple DB wih Bash script.
 
 
 Bash Shell Script Database Management System (DBMS):
+
 The Project aim to develop DBMS, that will enable users to store and
 retrieve the data from Hard-disk.
 The Project Features:
